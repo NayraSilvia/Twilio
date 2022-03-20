@@ -20,7 +20,7 @@ WhatsApp sender script in Python using Twilio's REST API. You can send:
 ***
 A little intro about the installation. 
 ```
-$ git clone https://example.com
+$ git clone https://github.com/NayraSilvia/Twilio.git
 $ pip install twilio
 $ pip install pyjokes
 $ python main.py
