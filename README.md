@@ -10,7 +10,7 @@
 
 ### General Info
 ***
-WhatsApp sender script in Python using Twilio's REST API. You can send:
+WhatsApp sender script in Python using Twilio's REST API. You do not need to code. Run the program and as requested enter your information, message and sending time through the terminal. You can send:
 + Auto generated one line joke
 + Auto generated one line story
 + A personalized message
