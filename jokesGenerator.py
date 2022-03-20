@@ -1,5 +1,5 @@
+# https://github.com/pyjokes/pyjokes
 import pyjokes
-
 
 def generate():
     # choose language of the joke
@@ -7,7 +7,7 @@ def generate():
     language_input = input('In which language do you want the joke?: ')
     for key in languages:
         if language_input.lower() == key:
-            language_choosen = key
+            language_choosen = languages[key]
             break
 
     # create message with the joke
