@@ -1,7 +1,7 @@
 """
 File: main.py
 -------------------
-Send message with a joke from the pyjokes library using twilio
+Send a WhatsApp Message with a joke, a short story or a personalized message and define sending time using twilio api
 """
 # Download the helper library from https://www.twilio.com/docs/python/install
 from datetime import datetime
