@@ -3,8 +3,9 @@ File: main.py
 -------------------
 Send a WhatsApp Message with a joke, a short story or a personalized message and define sending time using twilio api
 """
-# Download the helper library from https://www.twilio.com/docs/python/install
 from datetime import datetime
+
+# Download the helper library from https://www.twilio.com/docs/python/install
 import os
 from twilio.rest import Client
 
